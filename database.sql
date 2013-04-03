@@ -270,4 +270,5 @@ INSERT INTO `embeds` (`name`, `regex`, `code`) VALUES
 
 INSERT INTO `styles` (`name`, `path`, `path_thread`, `path_index`, `default`) VALUES 
 ('Yotsuba', '../styles/stylesheet.css', '../../styles/stylesheet.css', './styles/stylesheet.css', '1'),
-('Yotsuba Blue', '../styles/yotsubablue.css', '../../styles/yotsubablue.css', './styles/yotsubablue.css', '0');
+('Yotsuba Blue', '../styles/yotsubablue.css', '../../styles/yotsubablue.css', './styles/yotsubablue.css', '0'),
+('Q_Testorange', '../styles/q_testorange.css', '../../styles/q_testorange.css', './styles/q_testorange.css', '0');
