@@ -1,10 +1,10 @@
 
 
 table>thead>tr>td {
-    background-color: #444;
-    color: #FFF;
+    background-color: #EA8;
+    color: #800;
     font-weight: bold;
-    border: 1px solid #FFF;
+    border: 1px solid #800;
     font-size: 10pt;
     padding: 5px;
     text-align: center;
@@ -16,7 +16,7 @@ td {
 }
 
 table tbody tr:nth-of-type(odd) {
-    background-color: #363636;
+    background-color: #ede2d4;
 }
 
 table {
@@ -25,19 +25,4 @@ table {
     min-width: 100%;
     width: 100% !important;
     max-width: 100%;
-}
-a:link {
-color: #CC9900
-}
-
-a:visited {
-color: #CC9900
-}
-
-a:hover {
-color: #CC9900
-}
-
-a:active {
-color: #CC9900
 }
